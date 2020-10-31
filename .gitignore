@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble
+.LSOveride
+
+
+# Executables
+*.exe
+*.out
+*.app
+./C++/!*.cpp
