@@ -8,4 +8,7 @@
 *.out
 *.app
 *.e
-./C++/!*.cpp
+*
+!*/
+C++/.DS_Store
+C++/!*.cpp
